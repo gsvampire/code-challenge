@@ -1,0 +1,36 @@
+<?php
+return [
+    'labels' => [
+        'XqRefundOrder' => '退款订单',
+        'xq-refund-order' => '退款订单',
+        'refund' => '退款订单',
+    ],
+    'fields' => [
+        'channel_sell_order_id' => '主订单ID',
+        'detail_order_id' => '子订单ID',
+        'order_type' => '订单类型',
+        'detail_order_no' => '小茄订单编号',
+        'refund_order_no' => '退款订单编号',
+        'purchase_phone' => '下单账号',
+        'charge_account' => '充值账号',
+        'detail_order_status' => '订单状态',
+        'order_status' => '退款状态',
+        'goods_id' => '商品ID',
+        'supplier_id' => '供货商ID',
+        'channel_id' => '渠道ID',
+        'goods_no' => '商品编号',
+        'channel_price' => '退款金额',
+        'channel_no' => '渠道商编号',
+        'supply_price' => '供货商价格',
+        'supplier_no' => '供货商编号',
+        'pay_num' => '购买数量',
+        'remark' => '退款审核',
+        'operator' => '操作人',
+        'redeem_code' => '兑换码',
+        'order_start_at' => '有效期开始时间',
+        'order_end_at' => '有效期结束时间',
+        'refund_serial_id' => '退款流水号',
+    ],
+    'options' => [
+    ],
+];

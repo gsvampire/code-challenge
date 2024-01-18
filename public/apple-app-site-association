@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T7S7ML33H8.com.shxq.cleanhelper",
+                "paths": [
+                    "/clean/*"
+                ]
+            },
+            {
+                "appID": "KSLXAB95KA.com.xiaoqie.clean",
+                "paths": [
+                    "/clean/*"
+                ]
+            },
+            {
+                "appID": "8CD39C79N9.com.shxq.cleanhelper",
+                "paths": [
+                    "/clean/*"
+                ]
+            }
+        ]
+    }
+}
