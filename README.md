@@ -32,7 +32,11 @@ test
 生成app_key 命令 php artisan key:generate
 
 实现功能 :项目用到了db
+
 1  数据导入(因为有导入了，暂时没有开发新增功能)
+
 2  输出导出
+
 3  列表页面
+
 4  详情页面
